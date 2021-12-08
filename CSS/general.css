@@ -28,8 +28,9 @@ Paragraph default: 1.6
 -Tints: #fdf2e9, #fae5d3, #cf711f, #eb984e, #45260a
 -Shades:
 -Accents:
+LIGHEST GREY #767676 ALLOWED WHEN USING BACKGROUND COLOR #fff
 LIGHEST GREY #6f6f6f ALLOWED WHEN USING BACKGROUND COLOR #fdf2e9
--Greys: #555, #333
+-Greys: #888, #767676, #555, #333
 
 --- 03 SHADOWS
 box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
